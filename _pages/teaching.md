@@ -8,7 +8,7 @@ author_profile: true
 ## KTH
 ### Teaching Assistant
 <ul>
-<!-- 	<li>SF1681 Linear Algebra (Swedish), Advanced course-- Autumn 2022</li> -->
+	<li>SF1681 Linear Algebra (Swedish), Advanced course -- Autumn 2022</li> 
 	<li>SF1686 Calculus in Several Variable (English) -- Winter 2022</li>
 </ul>
 
