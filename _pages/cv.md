@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D., University of Utah (Salt Lake City, US), August 2019
-  * Advisor: [Yekaterina Epshteyn](https://www.math.utah.edu/~epshteyn/)
-  * Thesis: Robust Numerical Algorithms with Applications to Interface Problems and Chemotaxis Models in Biology
+* Ph.D., University Claude Bernard Lyon 1, France, February 2020
+  * Advisor: [Jiang Zeng](https://scholar.google.com/citations?user=Daw_VGIAAAAJ)
+  * Thesis:  Gamma positivity in enumerative combinatorics
 * B.S., Central University of Finance and Economics (Beijing, China), July 2012
 
 ## Work experience
