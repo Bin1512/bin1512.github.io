@@ -27,4 +27,4 @@ redirect_from:
   * Chinese
   * English
   * Swedish
-* HTML, CSS, Javascript, Git, C++, Matlab, R, Python, SQL
+* HTML, CSS, JavaScript, Git, C++, Matlab, R, Python, SQL
