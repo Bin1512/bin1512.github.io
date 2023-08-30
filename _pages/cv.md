@@ -11,7 +11,7 @@ redirect_from:
 * Ph.D.,  Mathematics, University Claude Bernard Lyon 1, France, February 2020
   * Advisor: [Jiang Zeng](https://scholar.google.com/citations?user=Daw_VGIAAAAJ)
   * Thesis:  Gamma positivity in enumerative combinatorics
-* M.S.,School of Mathematics and Statistics, Lanzhou University, China, July 2015 
+* M.S., School of Mathematics and Statistics, Lanzhou University, China, July 2015 
 * B.S., College of Mathematics and Computer Science, Shanxi Normal University, China, July 2011
 
 ## Work experience
