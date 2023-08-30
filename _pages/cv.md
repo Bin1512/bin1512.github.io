@@ -11,7 +11,8 @@ redirect_from:
 * Ph.D., University Claude Bernard Lyon 1, France, February 2020
   * Advisor: [Jiang Zeng](https://scholar.google.com/citations?user=Daw_VGIAAAAJ)
   * Thesis:  Gamma positivity in enumerative combinatorics
-* B.S., Central University of Finance and Economics (Beijing, China), July 2012
+* M.S.,Lanzhou University (Lanzhou, China), July 2015 
+* B.S., Shanxi Normal University (Linfen, China), July 2011
 
 ## Work experience
 * Dahlquist Research Fellow, September 2021 - 
