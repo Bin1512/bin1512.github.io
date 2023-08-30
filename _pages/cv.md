@@ -22,9 +22,9 @@ redirect_from:
   * Postdoc mentors: [Ron Adin](https://u.cs.biu.ac.il/~radin/), [Yuval Roichman](https://u.math.biu.ac.il/~yuval/).
 
   
-<!-- ## Skills
+ ## Skills
 * Language
   * Chinese
   * English
   * Swedish
-* Fortran, C++, Matlab, R, Python -->
+* HTML, CSS, Javascript, Git, C++, Matlab, R, Python, SQL
