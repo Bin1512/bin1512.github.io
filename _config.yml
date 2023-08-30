@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qing Xia"
+title                    : "Bin Han"
 title_separator          : "-"
-name                     : &name "Qing Xia"
+name                     : &name "Bin Han"
 description              : &description "Numerical Analyst"
 url                      : https://qingxiamath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
