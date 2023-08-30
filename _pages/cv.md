@@ -20,8 +20,7 @@ redirect_from:
 * Postdoctoral Research Fellow, January 2020 - September 2021
   * Bar Ilan University
   * Postdoc mentors: [Ron Adin](https://u.cs.biu.ac.il/~radin/), [Yuval Roichman](https://u.math.biu.ac.il/~yuval/).
-%* Graduate Teaching Assistant, August 2013 - June 2019
- % * University of Utah
+
   
 <!-- ## Skills
 * Language
