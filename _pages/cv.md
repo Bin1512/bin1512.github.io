@@ -15,16 +15,17 @@ redirect_from:
 * B.S., Shanxi Normal University (Linfen, China), July 2011
 
 ## Work experience
-* Dahlquist Research Fellow, September 2021 - 
+* Postdoc Research Fellow, September 2021 - 
   * KTH Royal Institute of Technology
-* Postdoctoral Research Associate, June 2019 - August 2021
-  * Rensselaer Polytechnic Institute
-  * Postdoc mentors: [Jeff Banks](http://homepages.rpi.edu/~banksj3/), [Gregor Kovacic](http://homepages.rpi.edu/~kovacg/), [Bill Henshaw](http://homepages.rpi.edu/~henshw/) and [Donald Schwendeman](https://homepages.rpi.edu/~schwed/)
-* Graduate Teaching Assistant, August 2013 - June 2019
-  * University of Utah
+* Postdoctoral Research Fellow, January 2020 - September 2021
+  * Bar Ilan University
+  * Postdoc mentors: [Ron Adin](https://u.cs.biu.ac.il/~radin/), [Yuval Roichman](https://u.math.biu.ac.il/~yuval/).
+%* Graduate Teaching Assistant, August 2013 - June 2019
+ % * University of Utah
   
 <!-- ## Skills
 * Language
   * Chinese
   * English
+  * Swedish
 * Fortran, C++, Matlab, R, Python -->
