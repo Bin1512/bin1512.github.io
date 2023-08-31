@@ -26,7 +26,10 @@ author_profile: true
 	    <b>B. Han</b>, The γ-positive coefficients arising in segmented permutations, <em>Discrete Math.</em> 344(2021), no.5, Paper No. 112336, 10 pp[<a href="https://doi.org/10.1016/j.disc.2021.112336" target="_blank">DOI</a>]
 	</li>
 	<li> 
-		J. Albright, Y. Epshteyn, M. Medvinsky and <b>Q. Xia</b>, High-order numerical schemes based on difference potentials for 2D elliptic problems with material interfaces. <em>Appl. Numer. Math.</em> 111 (2017), 64–91. [<a href="http://dx.doi.org/10.1016/j.apnum.2016.08.017" target="_blank">DOI</a>] [<a href="http://www.math.utah.edu/~epshteyn/APNUM_AEMX.pdf" target="_blank">pdf</a>]
+		 <b>B. Han</b>, Some multivariate polynomials for doubled permutations, <em>Electron. Res. Arch.</em> 29(2021), no.2, 1925–1944.[<a href="https://doi.org/10.3934/era.2020098" target="_blank">DOI</a>]
+	</li>
+	<li> 
+		 <b>B. Han</b>, Some multivariate polynomials for doubled permutations, <em>Electron. Res. Arch.</em> 29(2021), no.2, 1925–1944.[<a href="https://doi.org/10.3934/era.2020098" target="_blank">DOI</a>]
 	</li>
 </ul>
 
