@@ -21,7 +21,6 @@ author_profile: true
 	</li>
 	<li> 
 	    <b>B. Han</b>, Gamma-positivity of derangement polynomials and binomial Eulerian polynomials for colored permutations, <em>J. Combin. Theory Ser. A.</em> 182(2021), Paper No. 105459, 22 pp.[<a href="https://doi.org/10.1016/j.jcta.2021.105459" target="_blank">DOI</a>]
-	
 	</li>
 	<li> 
 	    <b>B. Han</b>, The γ-positive coefficients arising in segmented permutations, <em>Discrete Math.</em> 344(2021), no.5, Paper No. 112336, 10 pp[<a href="https://doi.org/10.1016/j.disc.2021.112336" target="_blank">DOI</a>]
