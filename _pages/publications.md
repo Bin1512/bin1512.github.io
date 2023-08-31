@@ -34,6 +34,15 @@ author_profile: true
  	<li> 
 		 <b>B. Han</b>, J.Mao, J. Zeng, Eulerian polynomials and excedance statistics via continued fractions, <em>Sém. Lothar. Combin.</em> 84B(2020), Art. 40, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2020/54-Han.pdf" target="_blank">PDF</a>]
 	</li>
+	<li> 
+		 <b>B. Han</b>, J.Mao, J. Zeng, Eulerian polynomials and excedance statistics, <em>Adv. in Appl. Math.</em> 121(2020), 102092, 45 pp.[<a href="https://doi.org/10.1016/j.aam.2020.102092" target="_blank">DOI</a>]
+	</li>
+	<li> 
+		 S. Fu, D. Tang, <b>B. Han</b>, J. Zeng, (q,t)-Catalan numbers: gamma expansions, pattern avoidances, and the (−1)-phenomenon, <em>Adv. in Appl. Math.</em> 106(2019), 57–95.[<a href="https://doi.org/10.1016/j.aam.2019.01.009" target="_blank">DOI</a>]
+	</li>
+	<li> 
+		 <b>B. Han</b>, λ-Euler's difference table for colored permutations., <em>Electron. J. Combin.</em> 25(2018), no.4, Paper No. 4.25, 27 pp.[<a href="https://doi.org/10.37236/7661" target="_blank">DOI</a>]
+	</li>
 </ul>
 
 ## Submitted
