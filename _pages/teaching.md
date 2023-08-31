@@ -21,7 +21,7 @@ author_profile: true
 	
 * Supervising 4 undergraduates in Degree Project in Applied Mathematics and Industrial Economics -- Spring 2022
 
-     *Gustav H. Granlund and Marcus Soderholm, ”Using regression analysis to evaluate KPI implementation at Volvo penta north America.”
+     * Gustav H. Granlund and Marcus Soderholm, ”Using regression analysis to evaluate KPI implementation at Volvo penta north America.”
 
      * Ellen Haavikko and Alva Lundgren, ”Company financial performance in relation to carbon dioxide emissions, a regression analysis of the biggest public companies in Sweden.”
 
