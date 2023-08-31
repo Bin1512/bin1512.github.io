@@ -24,7 +24,7 @@ author_profile: true
 	
 	</li>
 	<li> 
-	    J. Albright, Y. Epshteyn and <b>Q. Xia</b>, High-order accurate methods based on difference potentials for 2D parabolic interface models. <em>Commun. Math. Sci.</em>  15 (2017), no. 4, 985–1019. [<a href="http://dx.doi.org/10.4310/CMS.2017.v15.n4.a4" target="_blank">DOI</a>] [<a href="http://www.math.utah.edu/~epshteyn/Albright_Epshteyn_Xia_draft.pdf" target="_blank">pdf</a>]
+	    B. Han</b>, The γ-positive coefficients arising in segmented permutations, <em>Discrete Math.</em> 344(2021), no.5, Paper No. 112336, 10 pp[<a href="https://doi.org/10.1016/j.disc.2021.112336" target="_blank">DOI</a>]
 	</li>
 	<li> 
 		J. Albright, Y. Epshteyn, M. Medvinsky and <b>Q. Xia</b>, High-order numerical schemes based on difference potentials for 2D elliptic problems with material interfaces. <em>Appl. Numer. Math.</em> 111 (2017), 64–91. [<a href="http://dx.doi.org/10.1016/j.apnum.2016.08.017" target="_blank">DOI</a>] [<a href="http://www.math.utah.edu/~epshteyn/APNUM_AEMX.pdf" target="_blank">pdf</a>]
