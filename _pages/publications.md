@@ -17,10 +17,11 @@ author_profile: true
 		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances, <em>SIAM J. Discrete Math.</em> 35(2021), no.4, 2858–2879.[<a href="https://doi.org/10.1137/21M1414541" target="_blank">DOI</a>]
     </li>
 	<li> 
-	    <b>B. Han</b>, J. Zeng, Equidistributions of mesh patterns of length two., <em>Sém. Lothar. Combin.</em> 85B(2021), Art. 12, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/12Han.pdf" target="_blank">PDF</a>]
+	    <b>B. Han</b>, J. Zeng, Equidistributions of mesh patterns of length two, <em>Sém. Lothar. Combin.</em> 85B(2021), Art. 12, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/12Han.pdf" target="_blank">PDF</a>]
 	</li>
 	<li> 
-	    G. Ludvigsson, K.R. Steffen, S. Sticko, S. Wang, <b>Q. Xia</b>, Y. Epshteyn and G. Kreiss, High-order numerical methods for 2D parabolic problems in single and composite domains. <em>J. Sci. Comput.</em>  76 (2018), no. 2, 812–847. [<a href="https://dx.doi.org/10.1007/s10915-017-0637-y" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/1707.08459" target="_blank">arXiv:1707.08459</a>] 
+	    B. Han</b>, Gamma-positivity of derangement polynomials and binomial Eulerian polynomials for colored permutations, <em>J. Combin. Theory Ser. A.</em> 182(2021), Paper No. 105459, 22 pp.[<a href="https://doi.org/10.1016/j.jcta.2021.105459" target="_blank">DOI</a>]
+	
 	</li>
 	<li> 
 	    J. Albright, Y. Epshteyn and <b>Q. Xia</b>, High-order accurate methods based on difference potentials for 2D parabolic interface models. <em>Commun. Math. Sci.</em>  15 (2017), no. 4, 985–1019. [<a href="http://dx.doi.org/10.4310/CMS.2017.v15.n4.a4" target="_blank">DOI</a>] [<a href="http://www.math.utah.edu/~epshteyn/Albright_Epshteyn_Xia_draft.pdf" target="_blank">pdf</a>]
