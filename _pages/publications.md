@@ -11,7 +11,7 @@ author_profile: true
 		<b>B. Han</b>, Cyclic descents for Motzkin paths.<em> Discrete Math </em>.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v2" target="_blank">arXiv:2104.03774v2</a>]
 	</li>
 	<li>
-		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances via continued fractions, <em>S\'{e}m. Lothar. Combin.</em> 86B(2022), Art. 17, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/17.pdf" target="_blank">PDF</a>]
+		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances via continued fractions, <em>Sém. Lothar. Combin.</em> 86B(2022), Art. 17, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/17.pdf" target="_blank">PDF</a>]
 	</li>
 	<li> 
 		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances, <em>SIAM J. Discrete Math.</em> 35(2021), no.4, 2858–2879.[<a href="https://doi.org/10.1137/21M1414541" target="_blank">DOI</a>]
