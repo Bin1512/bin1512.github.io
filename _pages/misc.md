@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ##  Machine learning projects
-
 *  Proposing and implementing a novel deep learning model by using feedforward neural networks and bidirectional long short-term memory (LSTM) to improve the prediction accuracy of protein secondary structure prediction based on benchmark datasets
 * Proposing and implementing Reinforcement learning (RL) algorithms such as Q-learning and deep
 reinforcement learning (DRL) algorithms such as double Deep Q-network (DDQN) for energy management system (EMS) to improve the vehicle energy efficiency and convergence rate based on the data from Alternative Fuels Data Center (AFDC).
