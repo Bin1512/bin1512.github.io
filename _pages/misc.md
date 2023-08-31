@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Python projects"
-permalink: /Python projects/
+title: "Misc"
+permalink: /Misc/
 author_profile: true
 ---
 
