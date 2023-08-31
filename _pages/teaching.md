@@ -18,8 +18,7 @@ author_profile: true
 	<li> Cosupervising two graduate students with a Swedish financial
 technology company within their data team in Master Thesis project within mathematical statistics -- Spring 2022
 
-		Peter Abrahamsson and Niklas Ahlqvist, ”Evaluation of Machine Learning Methods for Time
-Series Forecasting on E-Commerce Data.”
+Peter Abrahamsson and Niklas Ahlqvist, ”Evaluation of Machine Learning Methods for Time Series Forecasting on E-Commerce Data.”
 	</li>
 	<li> Supervising 4 undergraduates in Degree Project in Applied Mathematics and
 Industrial Economics -- Spring 2022
