@@ -17,14 +17,15 @@ author_profile: true
 <ul>
 	<li> Cosupervising two graduate students with a Swedish financial
 technology company within their data team in Master Thesis project within mathematical statistics -- Spring 2022
-Peter Abrahamsson and Niklas Ahlqvist, ”Evaluation of Machine Learning Methods for Time
+
+		Peter Abrahamsson and Niklas Ahlqvist, ”Evaluation of Machine Learning Methods for Time
 Series Forecasting on E-Commerce Data.”
 	</li>
 	<li> Supervising 4 undergraduates in Degree Project in Applied Mathematics and
 Industrial Economics -- Spring 2022
-Gustav H. Granlund and Marcus Soderholm, ”Using regression analysis to evaluate KPI ¨
-implementation at Volvo penta north America.”
-Ellen Haavikko and Alva Lundgren, ”Company financial performance in relation to carbon dioxide
-emissions, a regression analysis of the biggest public companies in Sweden.”
+
+Gustav H. Granlund and Marcus Soderholm, ”Using regression analysis to evaluate KPI implementation at Volvo penta north America.”
+
+Ellen Haavikko and Alva Lundgren, ”Company financial performance in relation to carbon dioxide emissions, a regression analysis of the biggest public companies in Sweden.”
 	</li>
 </ul>
