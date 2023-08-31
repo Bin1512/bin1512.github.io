@@ -8,10 +8,10 @@ author_profile: true
 ## Published
 <ul> 
 	<li>
-		<b>B. Han</b>, Cyclic descents for Motzkin paths.Discrete Math.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v2" target="_blank">arXiv:2104.03774v2</a>]
+		<b>B. Han</b>, Cyclic descents for Motzkin paths.<em> Discrete Math </em>.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v2" target="_blank">arXiv:2104.03774v2</a>]
 	</li>
 	<li>
-		<b>Q. Xia</b>, J. W. Banks, W. D. Henshaw, A. V. Kildishev, G. Kovacic, L. J. Prokopeva, and D. W. Schwendeman, High-order accurate schemes for maxwell's equations with nonlinear active media and material interfaces, <em>J. Comput. Phys.</em> 456 (2022), 111051 [<a href="https://doi.org/10.1016/j.jcp.2022.111051" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2108.09519" target="_blank">arXiv:2108.09519</a>]
+		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances via continued fractions, <em>S\'{e}m. Lothar. Combin.</em> 86B(2022), Art. 17, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/17.pdf" target="_blank">pdf</a>]
 	</li>
 	<li> 
 		Y. Epshteyn and <b>Q. Xia</b>, Difference potentials method for models with dynamic boundary conditions and bulk-surface problems, <em>Adv. Comput. Math.</em> 46, 67 (2020) [<a href="https://doi.org/10.1007/s10444-020-09798-8" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/1904.08362" target="_blank">arXiv:1904.08362</a>] 
