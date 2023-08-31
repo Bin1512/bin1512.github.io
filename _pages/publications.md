@@ -58,6 +58,6 @@ author_profile: true
 
 <ul>
 	<li> 
-		Multiscale analysis of nonlinear material models with carrier kinetics
+		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, On the symmetric decomposition of multiset Eulerian polynomials, 2023
 	</li> 
 </ul>
