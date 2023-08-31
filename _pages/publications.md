@@ -29,7 +29,10 @@ author_profile: true
 		 <b>B. Han</b>, Some multivariate polynomials for doubled permutations, <em>Electron. Res. Arch.</em> 29(2021), no.2, 1925–1944.[<a href="https://doi.org/10.3934/era.2020098" target="_blank">DOI</a>]
 	</li>
 	<li> 
-		 <b>B. Han</b>, Some multivariate polynomials for doubled permutations, <em>Electron. Res. Arch.</em> 29(2021), no.2, 1925–1944.[<a href="https://doi.org/10.3934/era.2020098" target="_blank">DOI</a>]
+		 <b>B. Han</b>, J. Zeng, Equidistributions of mesh patterns of length two and Kitaev and Zhang's conjectures, <em>Adv. in Appl. Math.</em> 127(2021), Paper No. 102149, 17 pp.[<a href="https://doi.org/10.1016/j.aam.2020.102149" target="_blank">DOI</a>]
+	</li>
+ 	<li> 
+		 <b>B. Han</b>, J.Mao, J. Zeng, Eulerian polynomials and excedance statistics via continued fractions, <em>Sém. Lothar. Combin.</em> 84B(2020), Art. 40, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2020/54-Han.pdf" target="_blank">PDF</a>]
 	</li>
 </ul>
 
