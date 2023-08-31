@@ -20,7 +20,7 @@ author_profile: true
 	    <b>B. Han</b>, J. Zeng, Equidistributions of mesh patterns of length two, <em>Sém. Lothar. Combin.</em> 85B(2021), Art. 12, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/12Han.pdf" target="_blank">PDF</a>]
 	</li>
 	<li> 
-	    B. Han</b>, Gamma-positivity of derangement polynomials and binomial Eulerian polynomials for colored permutations, <em>J. Combin. Theory Ser. A.</em> 182(2021), Paper No. 105459, 22 pp.[<a href="https://doi.org/10.1016/j.jcta.2021.105459" target="_blank">DOI</a>]
+	    <b>B. Han</b>, Gamma-positivity of derangement polynomials and binomial Eulerian polynomials for colored permutations, <em>J. Combin. Theory Ser. A.</em> 182(2021), Paper No. 105459, 22 pp.[<a href="https://doi.org/10.1016/j.jcta.2021.105459" target="_blank">DOI</a>]
 	
 	</li>
 	<li> 
