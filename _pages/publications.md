@@ -14,7 +14,7 @@ author_profile: true
 		<b>B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances via continued fractions, <em>S\'{e}m. Lothar. Combin.</em> 86B(2022), Art. 17, 12 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/17.pdf" target="_blank">pdf</a>]
 	</li>
 	<li> 
-		Y. Epshteyn and <b>Q. Xia</b>, Difference potentials method for models with dynamic boundary conditions and bulk-surface problems, <em>Adv. Comput. Math.</em> 46, 67 (2020) [<a href="https://doi.org/10.1007/s10444-020-09798-8" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/1904.08362" target="_blank">arXiv:1904.08362</a>] 
+		B. Han</b>, J. Mao, J. Zeng,Equidistributions around special kinds of descents and excedances, <em>SIAM J. Discrete Math.</em> 35(2021), no.4, 2858–2879.[<a href="https://doi.org/10.1137/21M1414541" target="_blank">DOI</a>]
     </li>
 	<li> 
 	    Y. Epshteyn and <b>Q. Xia</b>, Efficient numerical algorithms based on difference potentials for chemotaxis systems in 3D. <em>J. Sci. Comput.</em>  80 (2019), no. 1, 26–59. [<a href="https://doi.org/10.1007/s10915-019-00928-z" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/1811.03557" target="_blank">arXiv:1811.03557</a>] 
