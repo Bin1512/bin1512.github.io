@@ -48,6 +48,10 @@ author_profile: true
 ## Submitted
 
 <ul>
+<li>
+		<b>B. Han</b>, Qiongqiong Pan,  (p, q, t)-Catalan continued fractions, gamma expansions and pattern avoidances, 2023,19 pp.[<a href="https://arxiv.org/abs/2211.10893v2" target="_blank">arXiv:2211.10893v2</a>]
+	</li>
+	
 </ul>
 
 ## In preparation
