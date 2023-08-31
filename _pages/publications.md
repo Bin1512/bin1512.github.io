@@ -8,7 +8,7 @@ author_profile: true
 ## Published
 <ul> 
 	<li>
-		<b>B. Han</b>, Cyclic descents for Motzkin paths.Discrete Math.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v1" target="_blank">arXiv:2104.03774v1</a>]
+		<b>B. Han</b>, Cyclic descents for Motzkin paths.Discrete Math.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v2" target="_blank">arXiv:2104.03774v2</a>]
 	</li>
 	<li>
 		<b>Q. Xia</b>, J. W. Banks, W. D. Henshaw, A. V. Kildishev, G. Kovacic, L. J. Prokopeva, and D. W. Schwendeman, High-order accurate schemes for maxwell's equations with nonlinear active media and material interfaces, <em>J. Comput. Phys.</em> 456 (2022), 111051 [<a href="https://doi.org/10.1016/j.jcp.2022.111051" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2108.09519" target="_blank">arXiv:2108.09519</a>]
