@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
+I am a research assistant at the University of Gothenburg, working in a project on spatio-temporal (time and space/geography) statistical and machine learning-based analyses of COVID-19 contagion in Sweden. Before that, I was a postdoctoral research fellow at KTH with Liam Solus, and a postdoctoral researcher at Bar-Ilan Uiversity with Ron Adin and Yuval Roichman. I completed my PhD in mathematics in February 2020 at University of Lyon 1 under the supervision of Jiang Zeng.
+
 Contact
 ======
 Department of Mathematics\
