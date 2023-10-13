@@ -14,9 +14,9 @@ I am a research assistant at the University of Gothenburg, working in a project 
 
 Contact
 ======
-Department of Mathematics\
-KTH Royal Institute of Technology\
-Stockholm, Sweden
+Applied Mathematics and Statistics, Mathematical Sciences\
+CTH Chalmers University of Technology\
+Gothenburg, Sweden
 
 Research Interests
 ======
