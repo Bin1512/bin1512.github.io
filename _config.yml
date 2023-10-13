@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bin Han"
 title_separator          : "-"
 name                     : &name "Bin Han"
-description              : &description "Numerical Analyst"
+description              : &description "Data Analyst"
 url                      : https://bin1512.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bin1512.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bin Han"
   avatar           : "profile_BH1.jpg"
-  bio              : "Postdoc @ KTH"
+  bio              : "Research assistant@GU && CTH"
   location         : "Gothenburg, SE"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
