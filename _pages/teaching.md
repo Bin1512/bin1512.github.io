@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Jensen
+## [Jensen](https://www.jensengymnasium.se/goteborg)
 ## High school teacher in Technology/data
 <ul>
     <li>Programming 1(Python language) -- Autumn 2023</li> 
