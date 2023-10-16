@@ -15,9 +15,12 @@ redirect_from:
 * B.S., College of Mathematics and Computer Science, Shanxi Normal University, China, July 2011
 
 ## Work experience
-* Postdoc Research Fellow, September 2021 - 
+* Research assistant, October 2023 -
+  * University of Gothenburg
+  * Project mentor: [Mia Söderberg](https://www.gu.se/om-universitetet/hitta-person/miasoderberg), [Ottmar Cronie](https://www.chalmers.se/en/persons/ottmar/)
+* Postdoc Research Fellow, September 2021 - September 2023
   * KTH Royal Institute of Technology
-  * Postdoc mentor [Liam Solus](https://people.kth.se/~solus/).
+  * Postdoc mentor: [Liam Solus](https://people.kth.se/~solus/).
 * Postdoctoral Research Fellow, January 2020 - September 2021
   * Bar Ilan University
   * Postdoc mentors: [Ron Adin](https://u.cs.biu.ac.il/~radin/), [Yuval Roichman](https://u.math.biu.ac.il/~yuval/).
