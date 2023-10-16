@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## [Jensen](https://www.jensengymnasium.se/goteborg)
-## High school teacher in Technology/data
+## [Jensen gymnasium Göteborg](https://www.jensengymnasium.se/goteborg)
+## Teacher in Technology/data
 <ul>
     <li>Programming 1(Python language) -- Autumn 2023</li> 
     <li>Programming 2 (C# language) -- Autumn 2023</li>
@@ -16,14 +16,14 @@ author_profile: true
     
 <\ul>
 
-## [KTH](https://www.kth.se/en)
+## [KTH Royal Institute of Technology](https://www.kth.se/en)
 ### Teaching Assistant
 <ul>
 	<li>SF1681 Linear Algebra (Swedish), Advanced course -- Autumn 2022</li> 
 	<li>SF1686 Calculus in Several Variable (English) -- Winter 2022</li>
 </ul>
 
-## [KTH](https://www.kth.se/en)
+## [KTH Royal Institute of Technology](https://www.kth.se/en)
 ### Mentoring
 
 * Cosupervising two graduate students with a Swedish financial technology company within their data team in Master Thesis project within mathematical statistics -- Spring 2022
