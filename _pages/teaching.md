@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## [JENSEN gymnasium Göteborg](https://www.jensengymnasium.se/goteborg)
-## Teacher in Technology/data
+### Teacher in Technology/data
 <ul>
     <li>Programming 1(Python language) -- Autumn 2023</li> 
     <li>Programming 2 (C# language) -- Autumn 2023</li>
@@ -14,7 +14,7 @@ author_profile: true
     <li> Webdevelopment 2(JavaScript)-- Autumn 2023</li>
     <li> Computer and network technology-- Autumn 2023</li>
     
-<\ul>
+</ul>
 
 ## [KTH Royal Institute of Technology](https://www.kth.se/en)
 ### Teaching Assistant
