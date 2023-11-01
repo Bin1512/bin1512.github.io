@@ -23,7 +23,7 @@ redirect_from:
   * Postdoc mentor: [Liam Solus](https://people.kth.se/~solus/).
 * Postdoctoral Research Fellow, January 2020 - September 2021
   * Bar Ilan University
-  * Postdoc mentors: [Ron Adin](https://u.cs.biu.ac.il/~radin/), [Yuval Roichman](https://u.math.biu.ac.il/~yuval/).
+  * Postdoc mentors: [Ron Adin](https://scholar.google.com/citations?user=9cYydTkAAAAJ) and [Yuval Roichman](https://scholar.google.com/citations?user=XUOqPnMAAAAJ&hl=en).
     
 ## Skills
 * Language
