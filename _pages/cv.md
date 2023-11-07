@@ -24,6 +24,12 @@ redirect_from:
 * Postdoctoral Research Fellow, January 2020 - September 2021
   * Bar Ilan University
   * Postdoc mentors: [Ron Adin](https://scholar.google.com/citations?user=9cYydTkAAAAJ) and [Yuval Roichman](https://scholar.google.com/citations?user=XUOqPnMAAAAJ&hl=en).
+ 
+## Additional experience
+* Part-time Technology/Data teacher September 2023 - Noverber2023
+  * Jensen Gymnasium Göteborg
+  * Teaching programming 1 and 2 (Python and C#), web development(HTML, CSS, JavaScript), computer and network technology to 1st, 2nd and 3rd high school students.
+
     
 ## Skills
 * Language
