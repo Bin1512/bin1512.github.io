@@ -62,4 +62,7 @@ author_profile: true
 	</li> 
         <li>     <b>Bin Han</b>, Ottmar Cronie, Annika Rosengren, Martin Adiels, Mia Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of Covid-19 - A Swedish register study, 2024
 	</li> 
+         <li>
+		 Lukas Fu, <b>Bin Han</b>, Ottmar Cronie, Modelling COVID-19 cases in Sweden using Statistics and Machine Learning, 2024
+	 </li>	 
 </ul>
