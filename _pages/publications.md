@@ -60,7 +60,7 @@ author_profile: true
 	<li> 
 		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, On the symmetric decomposition of multiset Eulerian polynomials, 2023
 	</li> 
-        <li>     <b>Bin Han</b>, Ottmar Cronie, Annika Rosengren, Martin Adiels, Mia Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of Covid-19 - A Swedish register study, 2024
+        <li>     <b>Bin Han</b>, Ottmar Cronie, Annika Rosengren, Martin Adiels, Mia Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 in Sweden, 2024
 	</li> 
          <li>
 		 Lukas Fu, <b>Bin Han</b>, Ottmar Cronie, Modelling COVID-19 cases in Sweden using Statistics and Machine Learning, 2024
