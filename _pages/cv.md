@@ -18,6 +18,9 @@ redirect_from:
 * Research assistant, October 2023 -
   * University of Gothenburg
   * Project mentor: [Mia Söderberg](https://www.gu.se/om-universitetet/hitta-person/miasoderberg), [Ottmar Cronie](https://www.chalmers.se/en/persons/ottmar/).
+  * Algorithm identification, analysis, and design in the areas of Covid-19 data acquisition, feature extraction, and representation.
+  * Algorithm implementation for Covid-19 prediction using time series analysis, machine learning, and data-based analysis with cloud-based solutions.
+  * Algorithm optimization for modeling performance, implementation complexity, flexibility,  and other metrics.
 * Postdoc Research Fellow, September 2021 - September 2023
   * KTH Royal Institute of Technology
   * Postdoc mentor: [Liam Solus](https://people.kth.se/~solus/).
