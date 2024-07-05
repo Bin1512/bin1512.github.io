@@ -62,7 +62,5 @@ author_profile: true
 	<li> 
 		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, On the symmetric decomposition of multiset Eulerian polynomials, 2024
 	</li> 
-         <li>
-		 
-	 </li>	 
+ 
 </ul>
