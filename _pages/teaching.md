@@ -7,7 +7,9 @@ author_profile: true
 
 ## [Chalmers University of Technology](https://www.chalmers.se/en/)
 ### Project assistant and Mentoring
+
 *Cosupervising a graduate in Degree Project in mathematical statistics-- Spring 2024 
+
      *Lukas Fu,  "Modelling COVID-19 cases in Sweden using Statistics and Machine Learning."
 
 ## [JENSEN gymnasium Göteborg](https://www.jensengymnasium.se/goteborg)
