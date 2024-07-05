@@ -63,6 +63,6 @@ author_profile: true
 		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, On the symmetric decomposition of multiset Eulerian polynomials, 2024
 	</li> 
          <li>
-		 Lukas Fu, <b>Bin Han</b>, Ottmar Cronie, Modelling COVID-19 cases in Sweden using Statistics and Machine Learning, 2024
+		 
 	 </li>	 
 </ul>
