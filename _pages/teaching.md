@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## [Chalmers University of Technology]((https://www.chalmers.se/en/)
+## [Chalmers University of Technology](https://www.chalmers.se/en/)
 ### Project assistant and Mentoring
 
 * Cosupervising a Degree Project in mathematical statistics-- Spring 2024
