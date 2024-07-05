@@ -12,6 +12,7 @@ author_profile: true
 
      *Lukas Fu,  "Modelling COVID-19 cases in Sweden using Statistics and Machine Learning."
 </ul>
+
 ## [JENSEN gymnasium Göteborg](https://www.jensengymnasium.se/goteborg)
 ### Teacher in Technology/data
 <ul>
