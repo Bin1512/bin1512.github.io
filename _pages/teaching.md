@@ -6,25 +6,13 @@ author_profile: true
 ---
 
 
-## [KTH Royal Institute of Technology](https://www.kth.se/en)
-### Mentoring
-
-* Cosupervising two graduate students with a Swedish financial technology company within their data team in Master Thesis project within mathematical statistics -- Spring 2022
-
-     * Peter Abrahamsson and Niklas Ahlqvist, ”Evaluation of Machine Learning Methods for Time Series Forecasting on E-Commerce Data.”
-	
-* Supervising 4 undergraduates in Degree Project in Applied Mathematics and Industrial Economics -- Spring 2022
-
-     * Gustav H. Granlund and Marcus Soderholm, ”Using regression analysis to evaluate KPI implementation at Volvo penta north America.”
-
-     * Ellen Haavikko and Alva Lundgren, ”Company financial performance in relation to carbon dioxide emissions, a regression analysis of the biggest public companies in Sweden.”
-
-## [Chalmers University of Technology](https://www.chalmers.se/en/)
+## [Chalmers University of Technology]((https://www.chalmers.se/en/)
 ### Project assistant and Mentoring
 
-*Cosupervising a Degree Project in mathematical statistics-- Spring 2024 
+* Cosupervising a Degree Project in mathematical statistics-- Spring 2024
 
-     *Lukas Fu, ”Modelling COVID-19 cases in Sweden using Statistics and Machine Learning. ”
+     * Lukas Fu, ”Modelling COVID-19 cases in Sweden using Statistics and Machine Learning. ”
+	
 
 
 ## [JENSEN gymnasium Göteborg](https://www.jensengymnasium.se/goteborg)
