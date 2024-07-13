@@ -8,7 +8,7 @@ author_profile: true
 ## Published
 <ul> 
         <li>
-		<b>B. Han</b>, Qiongqiong Pan,  (p, q, t)-Catalan continued fractions, gamma expansions and pattern avoidances, <em>Adv. in Appl. Math.</em> 159(2024), Paper No. 102735, 22pp.[<a href="https://www.sciencedirect.com/science/article/pii/S0196885824000678?via%3Dihub" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2211.10893v2" target="_blank">arXiv:2211.10893v2</a>]
+		<b>B. Han</b>, Q. Pan,  (p, q, t)-Catalan continued fractions, gamma expansions and pattern avoidances, <em>Adv. in Appl. Math.</em> 159(2024), Paper No. 102735, 22pp.[<a href="https://www.sciencedirect.com/science/article/pii/S0196885824000678?via%3Dihub" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2211.10893v2" target="_blank">arXiv:2211.10893v2</a>]
 	</li>
 	<li>
 		<b>B. Han</b>, Cyclic descents for Motzkin paths.<em> Discrete Math </em>.346(2023), no.8, Paper No. 113475, 9 pp. [<a href="https://doi.org/10.1016/j.disc.2023.113475" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2104.03774v2" target="_blank">arXiv:2104.03774v2</a>]
