@@ -60,7 +60,7 @@ author_profile: true
 
 <ul>
 	<li> 
-		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, On the symmetric decomposition of multiset Eulerian polynomials, 2024. [<a href="https://arxiv.org/abs/2407.12076" target="_blank">Arixv:2407.12076 </a>]
+		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, 2024. [<a href="https://arxiv.org/abs/2407.12076" target="_blank">Arixv:2407.12076 </a>]
 	</li> 
         <li>     <b>Bin Han</b>, Mia Söderberg, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Spatial-temporal model to investigate COVID-19 spread accounting for the dependence amongst areas, 2024.
 	</li>
