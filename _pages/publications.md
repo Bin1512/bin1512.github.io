@@ -63,7 +63,7 @@ author_profile: true
 
 <ul>
 	
-        <li>     <b>Bin Han</b>, Mia Söderberg, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Spatial-temporal model to investigate COVID-19 spread accounting for the dependence amongst areas, 2024.
+         <li>     <b>Bin Han</b>, Mia Söderberg, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Spatial-temporal model to investigate COVID-19 spread accounting for the dependence amongst areas, 2024.
 	</li>
  
 </ul>
