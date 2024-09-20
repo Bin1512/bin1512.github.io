@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a research assistant at the University of Gothenburg, working in a project on spatio-temporal (time and space/geography) statistical and machine learning-based analyses of COVID-19 contagion in Sweden. 
+I am a researcher at the University of Gothenburg, working in a project on spatio-temporal (time and space/geography) statistical and machine learning-based analyses of preterm delivery in Sweden. 
 
 Contact
 ======
