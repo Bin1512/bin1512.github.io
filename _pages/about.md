@@ -14,8 +14,8 @@ I am a researcher at the University of Gothenburg, working in a project on spati
 
 Contact
 ======
-Applied Mathematics and Statistics, Mathematical Sciences\
-CTH Chalmers University of Technology\
+Department of Oncology, Institute of Clinical Sciences,\
+University of Gothenburg\
 Gothenburg, Sweden
 
 Research Interests
