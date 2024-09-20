@@ -15,7 +15,7 @@ redirect_from:
 * B.S., College of Mathematics and Computer Science, Shanxi Normal University, China, July 2011
 
 ## Work experience
-* Researcher, September 2024
+* Researcher, September 2024 -
   * University of Gothenburg
   * mentor: [Bo Jacobsson](https://www.gu.se/om-universitetet/hitta-person/bojacobsson), [Pol Solé Navais](https://www.gu.se/en/about/find-staff/polsolenavais).
   * Algorithm identification, analysis, and design in the areas of Preterm delivery data acquisition, feature extraction, and representation.
