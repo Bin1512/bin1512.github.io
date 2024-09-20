@@ -24,8 +24,7 @@ redirect_from:
 * Research assistant, October 2023 - September 2024
   * University of Gothenburg
   * Project mentor: [Mia Söderberg](https://www.gu.se/om-universitetet/hitta-person/miasoderberg), [Ottmar Cronie](https://www.chalmers.se/en/persons/ottmar/).
-  
- * Postdoc Research Fellow, September 2021 - September 2023
+* Postdoc Research Fellow, September 2021 - September 2023
   * KTH Royal Institute of Technology
   * Postdoc mentor: [Liam Solus](https://people.kth.se/~solus/).
 * Postdoctoral Research Fellow, January 2020 - September 2021
