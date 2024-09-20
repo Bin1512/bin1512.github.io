@@ -18,8 +18,8 @@ redirect_from:
 * Researcher, September 2024
   * University of Gothenburg
   * mentor: [Bo Jacobsson](https://www.gu.se/om-universitetet/hitta-person/bojacobsson), [Pol Solé Navais](https://www.gu.se/en/about/find-staff/polsolenavais).
-  * Algorithm identification, analysis, and design in the areas of Covid-19 data acquisition, feature extraction, and representation.
-  * Algorithm implementation for Covid-19 prediction using time series analysis, machine learning, and data-based analysis with cloud-based solutions.
+  * Algorithm identification, analysis, and design in the areas of Preterm delivery data acquisition, feature extraction, and representation.
+  * Algorithm implementation for Preterm delivery prediction using time series analysis, machine learning, and data-based analysis with cloud-based solutions.
   * Algorithm optimization for modeling performance, implementation complexity, flexibility,  and other metrics.
 * Research assistant, October 2023 - September 2024
   * University of Gothenburg
