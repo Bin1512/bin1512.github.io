@@ -14,7 +14,7 @@ I am a researcher at the University of Gothenburg, working in a project on spati
 
 Contact
 ======
-Department of Oncology, Institute of Clinical Sciences,\
+Department of Oncology, Institute of Clinical Sciences\
 University of Gothenburg\
 Gothenburg, Sweden
 
