@@ -22,7 +22,7 @@ redirect_from:
   * Algorithm implementation for preterm delivery prediction using time series analysis, machine learning, and data-based analysis with cloud-based solutions.
   * Algorithm optimization for modeling performance, implementation complexity, flexibility,  and other metrics.
 * Research assistant, October 2023 - September 2024
-  * University of Gothenburg
+  * University of Gothenburg & Chalmers University of Technology
   * Project mentor: [Mia Söderberg](https://www.gu.se/om-universitetet/hitta-person/miasoderberg), [Ottmar Cronie](https://www.chalmers.se/en/persons/ottmar/).
 * Postdoc Research Fellow, September 2021 - September 2023
   * KTH Royal Institute of Technology
