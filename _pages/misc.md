@@ -7,7 +7,8 @@ author_profile: true
 ## Data Analysis 
 * Mammal Sleep Data Analysis- R, Tidyverse
   Performed exploratory data anaysis on the msleep dataset using dplyr, ggplot2, and base R. Converted variables to factors, handled missing values, visualized distributions and relationships (boxplots, bar charts, scatterplots), and computed correlations between numeric variables. Extracted insights such as the species with the shortest sleep and food category with the highest average sleep. Created filtered linear regression visulization based on the most common mammal order. 
-  Key skills: R, Tidyverse, data wrangling, data visualization, exploratory data analysis, correlation analysis
+
+Key skills: R, Tidyverse, data wrangling, data visualization, exploratory data analysis, correlation analysis
 
 ##  Machine learning projects
 *  Proposing and implementing a novel deep learning model by using feedforward neural networks and bidirectional long short-term memory (LSTM) to improve the prediction accuracy of protein secondary structure prediction based on benchmark datasets
