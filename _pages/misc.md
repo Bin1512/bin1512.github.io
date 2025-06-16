@@ -11,6 +11,12 @@ author_profile: true
 
 * Key skills: R, Tidyverse, data wrangling, data visualization, exploratory data analysis, correlation analysis
 
+## Programming
+* Developed functions for parsing and evaluating numbers in arbitrary numeral systems using Python. Implemented logic for input validation, digit-to-value mapping using dictionaries, and positional value computation with exponentiation. Demonstrated proficiency in control flow, list manipulation, mathematical operations, and functional decomposition. Designed reusable components such as base conversion utilities (parse, powers, n_ary, make_base), showcasing structured programming and problem-solving in numerical systems.
+
+* Key skills: Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
+
+
 ##  Machine learning projects
 *  Proposing and implementing a novel deep learning model by using feedforward neural networks and bidirectional long short-term memory (LSTM) to improve the prediction accuracy of protein secondary structure prediction based on benchmark datasets
 * Proposing and implementing Reinforcement learning (RL) algorithms such as Q-learning and deep
