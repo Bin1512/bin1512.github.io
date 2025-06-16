@@ -7,7 +7,7 @@ author_profile: true
 ## Data Analysis 
 * Mammal Sleep Data Analysis- R, Tidyverse
   Performed exploratory data analysis on the msleep dataset using dplyr, ggplot2, and base R. Converted variables to factors, handled missing values, visualized distributions and relationships (boxplots, bar charts, scatterplots), and computed correlations between numeric variables. Extracted insights such as the species with the shortest sleep and food category with the highest average sleep. Created filtered linear regression visualization based on the most common mammal order.
-  [**View full PDF report with plots and tables**](./files/msleep.pdf)
+  [**View full PDF report with plots and tables**]([./files/msleep.pdf](https://bin1512.github.io/files/msleep.pdf))
 
 * Key skills: R, Tidyverse, data wrangling, data visualization, exploratory data analysis, correlation analysis
 
