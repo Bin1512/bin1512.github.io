@@ -9,7 +9,7 @@ author_profile: true
   Performed exploratory data analysis on the msleep dataset using dplyr, ggplot2, and base R. Converted variables to factors, handled missing values, visualized distributions and relationships (boxplots, bar charts, scatterplots), and computed correlations between numeric variables. Extracted insights such as the species with the shortest sleep and food category with the highest average sleep. Created filtered linear regression visualization based on the most common mammal order.
   <!--[**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf))-->
 
-* Key skills: R, Tidyverse, data wrangling, data visualization, exploratory data analysis, correlation analysis
+* Key skills: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis, Correlation analysis
 
 ## Programming
 * Developed functions for parsing and evaluating numbers in arbitrary numeral systems using Python. Implemented logic for input validation, digit-to-value mapping using dictionaries, and positional value computation with exponentiation. Demonstrated proficiency in control flow, list manipulation, mathematical operations, and functional decomposition. Designed reusable components such as base conversion utilities (parse, powers, n_ary, make_base), showcasing structured programming and problem-solving in numerical systems.
