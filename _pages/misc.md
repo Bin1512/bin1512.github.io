@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /Projects/
+permalink: /misc/
 author_profile: true
 ---
 ## Data Analysis 
