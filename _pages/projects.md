@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Selected Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -18,7 +18,7 @@ author_profile: true
 * **Key skills**: Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
 
 
-##  Machine learning projects
+##  Machine learning
 *  Proposing and implementing a novel deep learning model by using feedforward neural networks and bidirectional long short-term memory (LSTM) to improve the prediction accuracy of protein secondary structure prediction based on benchmark datasets
 * Proposing and implementing Reinforcement learning (RL) algorithms such as Q-learning and deep
 reinforcement learning (DRL) algorithms such as double Deep Q-network (DDQN) for energy management system (EMS) to improve the vehicle energy efficiency and convergence rate based on the data from Alternative Fuels Data Center (AFDC).
