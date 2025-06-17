@@ -18,7 +18,8 @@ author_profile: true
 * **Numeral Base Evaluator** <br>
   Created a Python script to convert numbers between binary, decimal, hexadecimal, and nonary bases. Built logic dictionaries and implemented conversion with error handling.  [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf)
 
-* **Key skills**: Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
+* **Key skills**: Python, dictionaries, lists, string operations, Loops, conditionals, functions, file handling <br>
+Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
 
 
 ##  Machine learning
