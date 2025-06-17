@@ -14,9 +14,9 @@ author_profile: true
 ## Programming
 
 * **Word Counting** <br>
-  Built a simple text processing tool in Python to tokenize text, remove stopwords, and compute word frequencies. Practiced core programming concepts and explored basic NLP techniques like statistical word analysis. [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf))
+  Built a simple text processing tool in Python to tokenize text, remove stopwords, and compute word frequencies. Practiced core programming concepts and explored basic NLP techniques like statistical word analysis. [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf)
 * **Numeral Base Evaluator** <br>
-  Created a Python script to convert numbers between binary, decimal, hexadecimal, and nonary bases. Built logic dictionaries and implemented conversion with error handling.  [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf))
+  Created a Python script to convert numbers between binary, decimal, hexadecimal, and nonary bases. Built logic dictionaries and implemented conversion with error handling.  [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf)
 
 * **Key skills**: Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
 
