@@ -12,7 +12,7 @@ author_profile: true
 * Key skills: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis, Correlation analysis
 
 ## Programming
-* **Numeral Base Evaluator**
+* **Numeral Base Evaluator** <br>
   Developed functions for parsing and evaluating numbers in arbitrary numeral systems using Python. Implemented logic for input validation, digit-to-value mapping using dictionaries, and positional value computation with exponentiation. Demonstrated proficiency in control flow, list manipulation, mathematical operations, and functional decomposition. Designed reusable components such as base conversion utilities (parse, powers, n_ary, make_base), showcasing structured programming and problem-solving in numerical systems.  [**View full PDF report**](https://bin1512.github.io/files/Numeral-Base-Evaluator.pdf))
 
 * Key skills: Python Programming Algorithm Design, Numeral System Conversion, Data Validation & Error Handling, Dictionary & List Manipulation, Mathematical Reasoning, Functional Decomposition, Modular Code Structure
