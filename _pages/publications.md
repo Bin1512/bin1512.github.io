@@ -62,7 +62,7 @@ author_profile: true
 ## In preparation
 
 <ul>
-	  <li>     <b>Bin Han</b>, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Mia Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2024.
+	  <li>     <b>Bin Han</b>, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Mia Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2025.
 	</li>
  
 </ul>
