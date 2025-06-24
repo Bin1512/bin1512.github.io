@@ -7,7 +7,7 @@ author_profile: true
 ## Data Analysis 
 * **Mammalian Sleep Data Analysis**<br>
   Performed exploratory data analysis on the msleep dataset: cleaned data, visualized patterns using ggplot2, and extracted insights on sleep behavior across mammal categories.
-  <!--[**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf))-->
+  [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf))
 
 * **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis, Correlation analysis
 
