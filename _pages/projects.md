@@ -9,7 +9,10 @@ author_profile: true
   Performed exploratory data analysis on the msleep dataset: cleaned data, visualized patterns using ggplot2, and extracted insights on sleep behavior across mammal categories.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf)
 
-* **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis, Correlation analysis
+* **Statistical Analysis and Modeling of the Iris Dataset in R**<br>
+  Analyzed the Iris dataset in R using statistical and visual techniques. Built regression models to predict sepal length and explored species-specific patterns. Applied the model for practical prediction.
+
+* **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Statistical modelling, 
 
 ## Programming
 
