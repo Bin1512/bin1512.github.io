@@ -11,7 +11,7 @@ author_profile: true
 
 * **Statistical Analysis and Modeling of the Iris Dataset in R**<br>
   Analyzed the Iris dataset in R using statistical and visual techniques. Built regression models to predict sepal length and explored species-specific patterns. Applied the model for practical prediction.
-    [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf)
+    [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Iris_Analysis.pdf)
 
 * **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Statistical modelling, 
 
