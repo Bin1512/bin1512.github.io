@@ -13,7 +13,10 @@ author_profile: true
   Analyzed the Iris dataset in R using statistical and visual techniques. Built regression models to predict sepal length and explored species-specific patterns. Applied the model for practical prediction.
     [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Iris_Analysis.pdf)
 
-* **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Statistical modelling, 
+* **Predictive Modeling of Diabetes Onset in Pima Indian Women**<br>
+  Built a logistic regression model using EDA, mean imputation, and AIC-based variable selection to predict diabetes onset with 77.4% accuracy.
+  [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Iris_Analysis.pdf)
+* **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Statistical modelling, Model evaluation.
 
 ## Programming
 
