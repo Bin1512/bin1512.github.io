@@ -19,6 +19,9 @@ author_profile: true
 
 * **Explainable COVID-19 Mortality Risk Prediction Using Logistic Regression**<br>
   Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
+
+* **Household Income Prediction Using Socio-Demographic and Childhood Factors**<br>
+  Built a regression model to identify key predictors of household income among older adults in Sweden using SHARE Wave 3 & 4 data. Explored relationships between demographic characteristics, education, and childhood background (e.g., number of books, self-rated abilities) and income. Addressed multicollinearity and variable redundancy to ensure model interpretability and robustness.
 * **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Logistic regression, Statistical modeling, Model evaluation.
 
 ## Programming
