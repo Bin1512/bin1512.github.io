@@ -16,6 +16,9 @@ author_profile: true
 * **Predictive Modeling of Diabetes Onset in Pima Indian Women**<br>
   Built a logistic regression model using EDA, mean imputation, and AIC-based variable selection to predict diabetes onset with 77.4% accuracy.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/diabetes_analysis.pdf)
+
+* **Explainable COVID-19 Mortality Risk Prediction Using Logistic Regression**<br>
+  Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
 * **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Logistic regression, Statistical modeling, Model evaluation.
 
 ## Programming
