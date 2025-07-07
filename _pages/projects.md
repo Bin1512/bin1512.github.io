@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 ## Data Analysis 
+
+* **Using Patient Data to Predict COVID-19 Fatality Risk: A Logistic Regression Approach**<br>
+  Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
+  [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Covid_19.pdf)
 * **Mammalian Sleep Data Analysis**<br>
   Performed exploratory data analysis on the msleep dataset: cleaned data, visualized patterns using ggplot2, and extracted insights on sleep behavior across mammal categories.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf)
@@ -16,9 +20,6 @@ author_profile: true
 * **Predictive Modeling of Diabetes Onset in Pima Indian Women**<br>
   Built a logistic regression model using EDA, mean imputation, and AIC-based variable selection to predict diabetes onset with 77.4% accuracy.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/diabetes_analysis.pdf)
-
-* **Explainable COVID-19 Mortality Risk Prediction Using Logistic Regression**<br>
-  Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
 
 * **Household Income Prediction Using Socio-Demographic and Childhood Factors**<br>
   Built a regression model to identify key predictors of household income among older adults in Sweden using SHARE Wave 3 & 4 data. Explored relationships between demographic characteristics, education, and childhood background (e.g., number of books, self-rated abilities) and income. Addressed multicollinearity and variable redundancy to ensure model interpretability and robustness.
