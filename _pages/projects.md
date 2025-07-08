@@ -9,6 +9,10 @@ author_profile: true
 * **Using Patient Data to Predict COVID-19 Fatality Risk: A Logistic Regression Approach**<br>
   Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Covid_19.pdf)
+
+  * **Titanic Passenger Survival Prediction Using Classification Models**<br>
+Built a binary logistic regression model to predict Titanic passenger survival based on demographic and travel-related features. Processed and cleaned data (e.g., handled missing values, engineered features like title and family size), and identified key predictors such as passenger class, sex, and age. Interpreted model coefficients to explain the impact of each variable on survival likelihood.
+  [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Titanic_analysis.pdf)
 * **Mammalian Sleep Data Analysis**<br>
   Performed exploratory data analysis on the msleep dataset: cleaned data, visualized patterns using ggplot2, and extracted insights on sleep behavior across mammal categories.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf)
@@ -23,9 +27,6 @@ author_profile: true
 
 * **Household Income Prediction Using Socio-Demographic and Childhood Factors**<br>
   Built a regression model to identify key predictors of household income among older adults in Sweden using SHARE Wave 3 & 4 data. Explored relationships between demographic characteristics, education, and childhood background (e.g., number of books, self-rated abilities) and income. Addressed multicollinearity and variable redundancy to ensure model interpretability and robustness.
-
-* **Titanic Passenger Survival Prediction Using Classification Models**<br>
-Built a binary logistic regression model to predict Titanic passenger survival based on demographic and travel-related features. Processed and cleaned data (e.g., handled missing values, engineered features like title and family size), and identified key predictors such as passenger class, sex, and age. Interpreted model coefficients to explain the impact of each variable on survival likelihood.
 
 * **House Price Prediction in New Taipei City Using Regression Analysis**<br>
 Developed a linear regression model to predict house prices per unit area for homes under 20 years old in the Sindian district of New Taipei City. Explored the influence of factors such as proximity to MRT stations, number of nearby convenience stores, and geographic coordinates. Preprocessed data to filter relevant observations and assessed variable importance to inform urban real estate insights.
