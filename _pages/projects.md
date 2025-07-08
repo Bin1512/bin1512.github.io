@@ -10,9 +10,10 @@ author_profile: true
   Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Covid_19.pdf)
 
-  * **Titanic Passenger Survival Prediction Using Classification Models**<br>
+* **Titanic Passenger Survival Prediction Using Classification Models**<br>
 Built a binary logistic regression model to predict Titanic passenger survival based on demographic and travel-related features. Processed and cleaned data (e.g., handled missing values, engineered features like title and family size), and identified key predictors such as passenger class, sex, and age. Interpreted model coefficients to explain the impact of each variable on survival likelihood.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Titanic_analysis.pdf)
+
 * **Mammalian Sleep Data Analysis**<br>
   Performed exploratory data analysis on the msleep dataset: cleaned data, visualized patterns using ggplot2, and extracted insights on sleep behavior across mammal categories.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/msleep.pdf)
