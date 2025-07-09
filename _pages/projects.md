@@ -7,15 +7,15 @@ author_profile: true
 ## Data Analysis 
 
 * **Using Patient Data to Predict COVID-19 Fatality Risk: A Logistic Regression Approach**<br>
-  Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
+  Built an explainable logistic regression model to predict COVID-19 mortality using patient demographics, symptoms, and comorbidities. Handled missing data, performed stepwise feature selection, and achieved **89.6% accuracy**. Generated interpretable insights—highlighting key risk factors such as age, pneumonia, and chronic diseases—supporting clinical decision-making and early risk stratification.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Covid_19.pdf)
 
 * **Housing Price Prediction Model for Modern Homes in New Taipei City**<br>
-Developed a linear regression model using filtered real estate data (houses ≤ 20 years old) from Sindian district, New Taipei City (2012–2013). Identified key pricing factors including transaction date, proximity to MRT, latitude, house age, and local amenities. Achieved RMSE of 8.50 and MAPE of 17.7%, enabling practical price estimation and insights for urban planning and investment.
+Developed a linear regression model using filtered real estate data (houses ≤ 20 years old) from Sindian district, New Taipei City (2012–2013). Identified key pricing factors including transaction date, proximity to MRT, latitude, house age, and local amenities. Achieved **RMSE of 8.50 and MAPE of 17.7%**, enabling practical price estimation and insights for urban planning and investment.
 [**View Full PDF report with plots and tables**](https://bin1512.github.io/files/Estate_analysis.pdf)
 
 * **Titanic Passenger Survival Prediction Using Classification Models**<br>
-Built a binary logistic regression model to predict Titanic passenger survival based on demographic and travel-related features. Processed and cleaned data (e.g., handled missing values, engineered features like title and family size), and identified key predictors such as passenger class, sex, and age. Interpreted model coefficients to explain the impact of each variable on survival likelihood.
+Developed a logistic regression model to predict passenger survival on the Titanic using cleaned historical data. Identified key predictors—passenger class, sex, age, and number of siblings/spouses aboard—via stepwise feature selection. Achieved **80.9%** accuracy, with clear interpretability highlighting lower survival rates for males, older individuals, and lower-class passengers. Simulated survival probabilities for common passenger profiles to support model validation and insight communication.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Titanic_analysis.pdf)
 
 * **Mammalian Sleep Data Analysis**<br>
