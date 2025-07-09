@@ -10,6 +10,10 @@ author_profile: true
   Developed an interpretable regression model to predict the probability of death in COVID-19 patients based on symptoms, comorbidities, and demographics. Handled missing values, encoded categorical variables, and    emphasized model explainability to support real-time clinical decision-making under resource constraints.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Covid_19.pdf)
 
+* **Housing Price Prediction Model for Modern Homes in New Taipei City**<br>
+Developed a linear regression model using filtered real estate data (houses ≤ 20 years old) from Sindian district, New Taipei City (2012–2013). Identified key pricing factors including transaction date, proximity to MRT, latitude, house age, and local amenities. Achieved RMSE of 8.50 and MAPE of 17.7%, enabling practical price estimation and insights for urban planning and investment.
+[**View Full PDF report with plots and tables**](https://bin1512.github.io/files/Estate_analysis.pdf)
+
 * **Titanic Passenger Survival Prediction Using Classification Models**<br>
 Built a binary logistic regression model to predict Titanic passenger survival based on demographic and travel-related features. Processed and cleaned data (e.g., handled missing values, engineered features like title and family size), and identified key predictors such as passenger class, sex, and age. Interpreted model coefficients to explain the impact of each variable on survival likelihood.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Titanic_analysis.pdf)
@@ -29,8 +33,6 @@ Built a binary logistic regression model to predict Titanic passenger survival b
 * **Household Income Prediction Using Socio-Demographic and Childhood Factors**<br>
   Built a regression model to identify key predictors of household income among older adults in Sweden using SHARE Wave 3 & 4 data. Explored relationships between demographic characteristics, education, and childhood background (e.g., number of books, self-rated abilities) and income. Addressed multicollinearity and variable redundancy to ensure model interpretability and robustness.
 
-* **House Price Prediction in New Taipei City Using Regression Analysis**<br>
-Developed a linear regression model to predict house prices per unit area for homes under 20 years old in the Sindian district of New Taipei City. Explored the influence of factors such as proximity to MRT stations, number of nearby convenience stores, and geographic coordinates. Preprocessed data to filter relevant observations and assessed variable importance to inform urban real estate insights.
 
 * **Key skills**: R, Tidyverse, Data wrangling, Data visualization, Exploratory data analysis(EDA), Correlation analysis, Linear regression, Logistic regression, Statistical modeling, Model evaluation.
 
