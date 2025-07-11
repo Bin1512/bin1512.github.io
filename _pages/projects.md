@@ -18,7 +18,7 @@ Developed a linear regression model using filtered real estate data (houses ≤ 
 Developed a logistic regression model to predict passenger survival on the Titanic using cleaned historical data. Identified key predictors—passenger class, sex, age, and number of siblings/spouses aboard—via stepwise feature selection. Achieved **80.9%** accuracy, with clear interpretability highlighting lower survival rates for males, older individuals, and lower-class passengers. Simulated survival probabilities for common passenger profiles to support model validation and insight communication.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Titanic_analysis.pdf)
 
-  * **Predicting Household Income in Later Life: Insights from the SHARE Survey in Sweden**<br>
+* **Predicting Household Income in Later Life: Insights from the SHARE Survey in Sweden**<br>
   Analyzed household income determinants among older Swedish adults using simulated SHARE data (n = 420). Built a log-linear regression model identifying key predictors such as household size, partner status, sex, retirement, and early-life education indicators. **Achieved moderate model accuracy (MAPE: 42.7%, RMSE: 13,851 SEK)**, highlighting long-term socioeconomic influences on income.
   [**View full PDF report with plots and tables**](https://bin1512.github.io/files/Share_analysis.pdf)
 
