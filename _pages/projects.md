@@ -50,6 +50,10 @@ Developed a logistic regression model to predict passenger survival on the Titan
   Developed a multi-part Python project covering user input processing, algorithm development, and real-world data analysis. Implemented custom logic for statistical calculations and debugging, and created a basic bilingual word translator without external libraries. Analyzed and visualized classic car data using manual data aggregation and matplotlib, enhancing core programming, data handling, and visualization skills.
   [**View full PDF report**](https://bin1512.github.io/files/Tenta_2022.pdf)
 
+  * **Python Programming and Data Analysis**<br>
+  Developed Python programs for text processing, numerical algorithms, and user interaction, including FizzBuzz, temperature conversion, and date handling. Built savings growth simulations and fuel price analyses using csv and matplotlib, demonstrating skills in data handling, visualization, and algorithm design.
+  [**View full PDF report**](https://bin1512.github.io/files/Tenta_2025.pdf)
+
 * **Word Counting** <br>
   Built a simple text processing tool in Python to tokenize text, remove stopwords, and compute word frequencies. Practiced core programming concepts and explored basic NLP techniques like statistical word analysis. [**View full PDF report**](https://bin1512.github.io/files/Word-Counting.pdf)
 * **Numeral Base Evaluator** <br>
