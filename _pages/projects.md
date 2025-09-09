@@ -38,8 +38,8 @@ Developed a logistic regression model to predict passenger survival on the Titan
 
 ## Programming
 
-* **Temple of the Treasure Hunt – A Console-Based Treasure Game with Leaderboard & Data Visualization**<br>
-  Developed an interactive Python game where players search for hidden treasure behind one of ten doors in a mysterious temple. **The game tracks player performance, stores results in a CSV file, and visualizes statistics with a bar chart using Matplotlib.** Implemented file handling, weighted averages, and leaderboard ranking based on fewest attempts. The game integrates user input, randomization, and performance analysis, offering both engaging gameplay and insight into basic data science concepts.
+* **Game Design and Analysis: The Temple of Treasure Hunt**<br>
+ Developed a console-based treasure hunting game where players search for hidden rewards behind doors, with performance affecting the final prize. Implemented file handling to save player results, a leaderboard to track top scores, and matplotlib visualizations to display player attempts, combining game design, programming logic, and basic statistical analysis.
   [**View full PDF report**](https://bin1512.github.io/files/Tresure_Temple.pdf)
 
 * **Python Programming and Data Analysis in the Energy Finance Market: A Case Study with OKQ8 Fuel Prices**<br>
