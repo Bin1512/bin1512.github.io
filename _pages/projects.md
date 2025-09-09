@@ -42,8 +42,8 @@ Developed a logistic regression model to predict passenger survival on the Titan
   Developed an interactive Python game where players search for hidden treasure behind one of ten doors in a mysterious temple. **The game tracks player performance, stores results in a CSV file, and visualizes statistics with a bar chart using Matplotlib.** Implemented file handling, weighted averages, and leaderboard ranking based on fewest attempts. The game integrates user input, randomization, and performance analysis, offering both engaging gameplay and insight into basic data science concepts.
   [**View full PDF report**](https://bin1512.github.io/files/Tresure_Temple.pdf)
 
-* **Python Programming Foundations – Practical Problem Solving and Visualization**<br>
-  Developed a comprehensive suite of Python programs across nine distinct tasks focused on mastering fundamental programming constructs and problem-solving skills. The project included implementation of control flow logic (conditionals, loops), user-defined functions, data type handling, string processing, numerical computation, and basic algorithm design.
+* **Structured Python Programming and Data Visualization with an Auto-Generated Dataset**<br>
+  This assignment series comprises nine structured Python tasks covering control flow, user input, custom functions, numerical logic, and data structure manipulation. One exercise generates 50 random integers using the random module, stores and sorts them into separate lists, and visualizes both sequences in a scatter plot with matplotlib, emphasizing modularity, computational thinking, and practical data visualization skills.
   [**View full PDF report**](https://bin1512.github.io/files/Borås_tenta.pdf)
 
 * **Python Programming and Data Analysis with the 1974 Motor Trend Car Dataset**<br>
