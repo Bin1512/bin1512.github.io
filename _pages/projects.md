@@ -42,17 +42,17 @@ Developed a logistic regression model to predict passenger survival on the Titan
   Developed an interactive Python game where players search for hidden treasure behind one of ten doors in a mysterious temple. **The game tracks player performance, stores results in a CSV file, and visualizes statistics with a bar chart using Matplotlib.** Implemented file handling, weighted averages, and leaderboard ranking based on fewest attempts. The game integrates user input, randomization, and performance analysis, offering both engaging gameplay and insight into basic data science concepts.
   [**View full PDF report**](https://bin1512.github.io/files/Tresure_Temple.pdf)
 
-* **Structured Python Programming and Data Visualization with an Auto-Generated Dataset**<br>
-  This assignment series comprises nine structured Python tasks covering control flow, user input, custom functions, numerical logic, and data structure manipulation. One exercise generates 50 random integers using the random module, stores and sorts them into separate lists, and visualizes both sequences in a scatter plot with matplotlib, emphasizing modularity, computational thinking, and practical data visualization skills.
-  [**View full PDF report**](https://bin1512.github.io/files/Borås_tenta.pdf)
+* **Python Programming and Data Analysis in the Energy Finance Market: A Case Study with OKQ8 Fuel Prices**<br>
+  Conducted Python-based analysis of fuel price trends (2015–2021) for gasoline, E85, and diesel using OKQ8 data. Implemented CSV parsing and manual statistical calculations, and visualized results with matplotlib. Developed complementary programs for algorithmic problem solving, user interaction, and simulations (e.g., savings growth, FizzBuzz, temperature conversion), demonstrating applied skills in programming, data analysis, and financial market visualization.
+  [**View full PDF report**](https://bin1512.github.io/files/Tenta_202508.pdf)
 
 * **Python Programming and Data Analysis with the 1974 Motor Trend Car Dataset**<br>
   Developed Python programs for numerical problem-solving, algorithm design, and data analysis. Implemented custom statistical functions and applied CSV handling with matplotlib to analyze and visualize the 1974 Motor Trend car dataset, demonstrating skills in clean coding, data structuring, and manual computation without built-in functions.
   [**View full PDF report**](https://bin1512.github.io/files/Tenta_2022.pdf)
 
-* **Python Programming and Data Analysis in the Energy Finance Market: A Case Study with OKQ8 Fuel Prices**<br>
-  Conducted Python-based analysis of fuel price trends (2015–2021) for gasoline, E85, and diesel using OKQ8 data. Implemented CSV parsing and manual statistical calculations, and visualized results with matplotlib. Developed complementary programs for algorithmic problem solving, user interaction, and simulations (e.g., savings growth, FizzBuzz, temperature conversion), demonstrating applied skills in programming, data analysis, and financial market visualization.
-  [**View full PDF report**](https://bin1512.github.io/files/Tenta_202508.pdf)
+* **Structured Python Programming and Data Visualization with an Auto-Generated Dataset**<br>
+  This assignment series comprises nine structured Python tasks covering control flow, user input, custom functions, numerical logic, and data structure manipulation. One exercise generates 50 random integers using the random module, stores and sorts them into separate lists, and visualizes both sequences in a scatter plot with matplotlib, emphasizing modularity, computational thinking, and practical data visualization skills.
+  [**View full PDF report**](https://bin1512.github.io/files/Borås_tenta.pdf)
 
 * **Word Counting** <br>
   Built a simple text processing tool in Python to tokenize text, remove stopwords, and compute word frequencies. Practiced core programming concepts and explored basic NLP techniques like statistical word analysis. [**View full PDF report**](https://bin1512.github.io/files/Word-Counting.pdf)
