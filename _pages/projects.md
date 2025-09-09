@@ -46,8 +46,8 @@ Developed a logistic regression model to predict passenger survival on the Titan
   Developed a comprehensive suite of Python programs across nine distinct tasks focused on mastering fundamental programming constructs and problem-solving skills. The project included implementation of control flow logic (conditionals, loops), user-defined functions, data type handling, string processing, numerical computation, and basic algorithm design.
   [**View full PDF report**](https://bin1512.github.io/files/Borås_tenta.pdf)
 
-* **Python Programming Project: Data Analysis, Algorithm Design & Visualization**<br>
-  Developed a multi-part Python project covering user input processing, algorithm development, and real-world data analysis. Implemented custom logic for statistical calculations and debugging, and created a basic bilingual word translator without external libraries. Analyzed and visualized classic car data using manual data aggregation and matplotlib, enhancing core programming, data handling, and visualization skills.
+* **Python Programming and Data Analysis with the 1974 Motor Trend Car Dataset**<br>
+  Developed Python programs for numerical problem-solving, algorithm design, and data analysis. Implemented custom statistical functions and applied CSV handling with matplotlib to analyze and visualize the 1974 Motor Trend car dataset, demonstrating skills in clean coding, data structuring, and manual computation without built-in functions.
   [**View full PDF report**](https://bin1512.github.io/files/Tenta_2022.pdf)
 
 * **Python Programming and Data Analysis in the Energy Finance Market: A Case Study with OKQ8 Fuel Prices**<br>
