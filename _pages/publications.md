@@ -54,7 +54,7 @@ author_profile: true
 ## Submitted
 
 <ul>
-        <li>     <b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study, 2024. [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>]
+        <li>     <b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study, 2026. [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>]
          </li> 
 	 <li> 
 		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored Multiset Eulerian Polynomials, 2024. [<a href="https://arxiv.org/abs/2407.12076" target="_blank">ariXiv:2407.12076</a>]
