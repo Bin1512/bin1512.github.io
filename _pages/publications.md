@@ -54,6 +54,8 @@ author_profile: true
 ## Submitted
 
 <ul>
+	 <li>     <b>B. Han</b>, N. Andreeva, LL. Njotto, A. Rosengren, M. Adiels, O. Cronie, M.Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2026.
+	</li>
         <li>     <b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study, 2026. [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>]
          </li> 
 	 <li> 
@@ -65,7 +67,6 @@ author_profile: true
 ## In preparation
 
 <ul>
-	  <li>     <b>Bin Han</b>, Natalia Andreeva, Lembris Laayuni, Annika Rosengren, Martin Adiels, Ottmar Cronie, Mia Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2025.
-	</li>
+	 
  
 </ul>
