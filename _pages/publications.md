@@ -64,9 +64,3 @@ author_profile: true
 	
 </ul>
 
-## In preparation
-
-<ul>
-	 
- 
-</ul>
