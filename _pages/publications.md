@@ -7,6 +7,9 @@ author_profile: true
 
 ## Published
 <ul> 
+	<li> 
+		Danai. D, <b>B. Han</b>, Liam. S, Colored multiset Eulerian polynomials, <em>Sém. Lothar. Combin.</em> 93B(2025), Art. 101, 11 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/101.pdf" target="_blank">PDF</a>]
+	</li>
         <li>
 		<b>B. Han</b>, Q. Pan,  (p, q, t)-Catalan continued fractions, gamma expansions and pattern avoidances, <em>Adv. in Appl. Math.</em> 159(2024), Paper No. 102735, 22pp.[<a href="https://www.sciencedirect.com/science/article/pii/S0196885824000678?via%3Dihub" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2211.10893v2" target="_blank">arXiv:2211.10893v2</a>]
 	</li>
