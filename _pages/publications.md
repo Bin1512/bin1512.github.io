@@ -54,9 +54,15 @@ author_profile: true
 ## Submitted
 
 <ul>
-	 <li>     <b>B. Han</b>, N. Andreeva, LL. Njotto, A. Rosengren, M. Adiels, O. Cronie, M.Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2026.
+
+<li>     
+	<b>B. Han</b>, H. Sundelin, K. Ytterberg, J. Juodakis, P. Nyeboe, A. Rosengren, U. Strömberg, M. Norman, T. Svanvik, P. Solé-Navais, B. Jacobsson, Temporal trends in preterm birth rate over the last 30 years in Sweden: a population-based study [<a href="[https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1](https://www.medrxiv.org/content/10.64898/2026.02.24.26346962v1)</a>]
+         </li> 
+	 <li>     
+		 <b>B. Han</b>, N. Andreeva, LL. Njotto, A. Rosengren, M. Adiels, O. Cronie, M.Söderberg, Spatial-temporal modelling of COVID-19 in Sweden, 2026.
 	</li>
-        <li>     <b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study, 2026. [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>]
+        <li>     
+			<b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study, 2026. [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>]
          </li> 
 	 <li> 
 		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored Multiset Eulerian Polynomials, 2024. [<a href="https://arxiv.org/abs/2407.12076" target="_blank">ariXiv:2407.12076</a>]
