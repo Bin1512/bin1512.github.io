@@ -7,6 +7,10 @@ author_profile: true
 
 ## Published
 <ul> 
+<li> 
+		D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, <em>Comb. Theory<em> 6 (2026), no. 1, Paper No. 10, 31 pp.[<a href="https://escholarship.org/uc/item/135937h5" target="_blank">DOI</a>]
+	</li>
+	
 	<li> 
 		D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, <em>Sém. Lothar. Combin.</em> 93B(2025), Art. 101, 11 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/101.pdf" target="_blank">PDF</a>]
 	</li>
