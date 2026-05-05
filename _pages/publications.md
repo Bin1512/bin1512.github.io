@@ -8,7 +8,7 @@ author_profile: true
 ## Published
 <ul> 
     <li> 
-		D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, <em>Comb. Theory.<em> 6 (2026), no. 1, Paper No. 10, 31 pp.[<a href="https://escholarship.org/uc/item/135937h5" target="_blank">DOI</a>]
+		D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, <em>Comb. Theory.<em> 6 (2026), no. 1, Paper No. 10, 31 pp.[<a href="https://escholarship.org/uc/item/135937h5" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2407.12076" target="_blank">ariXiv:2407.12076</a>]
 	</li>
 	<li> 
 		D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored multiset Eulerian polynomials, <em>Sém. Lothar. Combin.</em> 93B(2025), Art. 101, 11 pp.[<a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/101.pdf" target="_blank">PDF</a>]
@@ -67,9 +67,7 @@ author_profile: true
         <li>     
 			<b>B. Han</b>, O. Cronie, M. Adiels, A. Rosengren, M. Söderberg, The influence of overcrowding and socioeconomy on the spatio-temporal spread of COVID-19 - a Swedish Register Study [<a href="https://www.researchsquare.com/article/rs-4380820/v1" target="_blank">researchsquare:4380820/V1</a>].
          </li> 
-	 <li> 
-		  D. Deligeorgaki, <b>B. Han</b>, L. Solus, Colored Multiset Eulerian Polynomials [<a href="https://arxiv.org/abs/2407.12076" target="_blank">ariXiv:2407.12076</a>].
-	</li> 
+	
 	
 </ul>
 
