@@ -26,7 +26,7 @@ redirect_from:
   * Project mentor: [Mia Söderberg](https://www.gu.se/om-universitetet/hitta-person/miasoderberg), [Ottmar Cronie](https://www.chalmers.se/en/persons/ottmar/).
 * Postdoc Research Fellow, September 2021 - September 2023
   * KTH Royal Institute of Technology
-  * Postdoc mentor: [Liam Solus](https://people.kth.se/~solus/).
+  * Postdoc mentor: [Liam Solus](https://www.kth.se/profile/solus).
 * Postdoctoral Research Fellow, January 2020 - September 2021
   * Bar Ilan University
   * Postdoc mentors: [Ron Adin](https://scholar.google.com/citations?user=9cYydTkAAAAJ) and [Yuval Roichman](https://scholar.google.com/citations?user=XUOqPnMAAAAJ&hl=en).
